@@ -28,3 +28,4 @@ person[selection] ='Hamid';
 
 
 console.log(person.name);
+//test
