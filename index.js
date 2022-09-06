@@ -29,3 +29,13 @@ person[selection] ='Hamid';
 
 console.log(person.name);
 //test
+
+let selectedColors = ['red', 'blue'];
+selectedColors[2] = 1;
+console.log(selectedColors.length);
+
+function great(name) {
+    console.log('Hello' + name)
+}
+
+greet ('Hamid');
