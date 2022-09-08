@@ -1,4 +1,4 @@
-        // This is my First JavaScript code!
+/*        // This is my First JavaScript code!
         console.log('Hello World');
 let name = 'Hamid';
 console.log(name);
@@ -39,3 +39,24 @@ function great(name) {
 }
 
 greet ('Hamid');
+*/
+
+function greet() {
+console.log('Hello + name');
+}
+
+greet('Hamid','Bamgbopa');
+function best(yourName){
+    console.log(yourName + 'is thev best [programmer.');
+}
+best('Hamid');
+
+// performing a task
+function greet(name, lastname){
+    console.log('Hello' + name + '' + lastName)
+}
+
+function area(base, height){
+    return base * height/2;
+}
+console.log(area 12/17);
